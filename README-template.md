@@ -32,8 +32,8 @@ users should be able to:
 ### Screenshot
 I added a screenshot of my solution here.
 
-![](./starter-code./assets/mobileView.jpeg)
-![](./assets/moonPageView.jpeg)
+![](./assets/home/mobileView.jpeg)
+![](./assets/home/moonPageView.jpeg)
 
 
 ### Links
