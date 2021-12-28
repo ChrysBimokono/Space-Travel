@@ -65,9 +65,7 @@ Doing this project:
 
 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
 /* for someone who is visually impaired */
 Made sure to implement this content for only screen readers to help users without vision.

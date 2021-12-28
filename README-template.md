@@ -32,7 +32,7 @@ users should be able to:
 ### Screenshot
 I added a screenshot of my solution here.
 
-![](./assets/mobileView.jpeg)
+![](./starter-code./assets/mobileView.jpeg)
 ![](./assets/moonPageView.jpeg)
 
 
