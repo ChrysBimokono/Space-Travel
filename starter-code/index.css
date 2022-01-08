@@ -525,7 +525,7 @@ body{
     /* background-color: red; */
 }
 
-.grid-container--destination >picture{
+.grid-container--destination >.img{
     grid-area: image;
     max-width: 60%;
 }
@@ -557,7 +557,7 @@ body{
     'content'
 }
 
-.grid-container--crew >picture{
+.grid-container--crew >.img{
     grid-area: image;
     max-width: 60%;
     border-bottom: 1px solid hsl(var(--clr-white) / .1);
@@ -630,8 +630,8 @@ body{
     '. image tabs .'
     '. image content .';
 }
-.grid-container--destination >picture,
-.grid-container--crew>picture{
+.grid-container--destination >.img,
+.grid-container--crew>.img{
     max-width: 90%;
 }
 .destination-meta{
@@ -650,11 +650,13 @@ body{
     justify-self: start;
 }
 
-.grid-container--crew > picture{
+.grid-container--crew > .img{
     align-self: end;
 }
 
 }
 
-
+[role="tab"]:focus {
+    color: limegreen
+}
 
